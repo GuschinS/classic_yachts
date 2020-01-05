@@ -1,51 +1,137 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <!--
- created with Free Online Sitemap Generator www.xml-sitemaps.com 
--->
-    <url>
-        <loc>https://klasycznejachty.org.pl/</loc>
-        <lastmod>2019-10-30T17:34:54+00:00</lastmod>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/index.html</loc>
-        <lastmod>2019-10-30T17:34:54+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/wsparcie.html</loc>
-        <lastmod>2019-10-24T20:48:22+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/projekty.html</loc>
-        <lastmod>2019-10-24T20:48:22+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/prasa.html</loc>
-        <lastmod>2019-10-24T20:48:22+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/kontakt.html</loc>
-        <lastmod>2019-10-24T20:48:21+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/smialy.html</loc>
-        <lastmod>2019-10-24T20:48:22+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/jarl.html</loc>
-        <lastmod>2019-10-24T20:48:21+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://klasycznejachty.org.pl/ina.html</loc>
-        <lastmod>2019-10-24T20:48:21+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://klasycznejachty.org.pl/</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/index.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/wsparcie.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/projekty.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/prasa.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/kontakt.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/index.html</loc>
+  <lastmod>2020-01-05T14:21:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/index.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/smialy.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/jarl.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ina.html</loc>
+  <lastmod>2020-01-05T14:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/wsparcie.html</loc>
+  <lastmod>2020-01-05T14:21:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/projekty.html</loc>
+  <lastmod>2020-01-05T14:21:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/prasa.html</loc>
+  <lastmod>2020-01-05T14:21:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/kontakt.html</loc>
+  <lastmod>2020-01-05T14:21:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/smialy.html</loc>
+  <lastmod>2020-01-05T14:29:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/jarl.html</loc>
+  <lastmod>2020-01-05T14:29:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/en/ina.html</loc>
+  <lastmod>2020-01-05T14:29:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/wsparcie.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/projekty.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/prasa.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/kontakt.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/smialy.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/jarl.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://klasycznejachty.org.pl/ru/ina.html</loc>
+  <lastmod>2020-01-05T14:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
