@@ -495,8 +495,8 @@ pre code {
 }
 .container {
   width: 100%;
-  padding-right: 25px;
-  padding-left: 25px;
+  padding-right: 15px;
+  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -512,12 +512,18 @@ pre code {
 }
 @media (min-width: 992px) {
   .container {
-    max-width: 960px;
+    max-width: 985px; /*# edit 960 */ 
+  }
+  #navcol-1 .navbar-nav .nav-item {
+    padding-right: 1rem; /*# add */
   }
 }
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
   .container {
-    max-width: 1300px;
+    max-width: 1140px;
+  }
+  #navcol-1 .navbar-nav .nav-item {
+    padding-right: 2rem; /*# add */
   }
 }
 .container-fluid {
@@ -2831,7 +2837,7 @@ input[type="submit"].btn-block {
   z-index: 1000;
   display: none;
   float: left;
-  min-width: 10rem;
+  min-width: 1rem; /*# edit 10 */
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
@@ -3650,6 +3656,7 @@ input[type="submit"].btn-block {
 .navbar-nav {
   display: -ms-flexbox;
   display: flex;
+  flex-wrap: nowrap;
   -ms-flex-direction: column;
   flex-direction: column;
   padding-left: 0;
@@ -3788,7 +3795,7 @@ input[type="submit"].btn-block {
     padding-left: 0;
   }
 }
-@media (min-width: 1060px) {
+@media (min-width: 992px) {
   .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
